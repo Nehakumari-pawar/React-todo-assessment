@@ -1,0 +1,31 @@
+.item{
+    display:flex;
+    justify-content:space-between;
+    margin: 10px auto;
+    width: 25rem;
+    height:30px;
+    border:1px solid #ede7f6;
+    border-radius:2px;
+    padding:10px;
+    background-color:  rgb(221, 185, 221);
+    align-items: center;
+    font-size: 800;
+}
+
+h4{
+    margin-top:0;
+    font-weight: 600;
+    margin-bottom: 10px;
+    font-size: 600;
+    color:black;
+    padding:1rem;
+}
+
+.trash{
+    margin-left:10px;
+    color:red;
+    }
+
+.icon{
+    margin-left:11rem;
+}    

@@ -1,0 +1,76 @@
+.todos{
+    width:60%;
+    height:50%;
+    background-color: rgb(175, 71, 175);
+    align-items:center;
+    justify-content: center;
+
+
+}
+
+.formInput{
+    width:200px;
+    background-color: rgb(214, 197, 214);
+    
+}
+
+.App {
+    text-align: center;
+    
+    height: 100vh;
+    font-size: 800;
+  }
+  
+  .App-header {
+    /*background-color: #282c34; */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    margin-top: 5rem;
+  }
+  
+ 
+  .wrapper{
+    background-color: rgb(236, 175, 236);
+    padding:10px;
+    height: 8rem;
+    width: 59rem;
+    box-shadow:0 1px 4px 0 rgba(0,0,0,0.5);
+    max-width: 70%;
+    align-items: center;
+    justify-content: center;
+    margin:10px auto;
+  }
+  .Input-wrapper{
+    display:flex;
+    justify-content:space-between;
+    width:15rem;
+    padding:1rem;
+    align-items:center;
+  }
+  
+  .list {
+    border-radius:4%;
+    border:0;
+    background-color:#ede7fe;
+    width: 19rem;
+    padding: 1.2rem;
+    margin-top: 2rem;
+    height:20Px;
+    font-size: 800;
+  }
+  
+  .btn{
+    width: 6rem;
+    height: 2rem;
+    margin: 1rem;
+    padding:10px;
+    outline: none;
+    background-color:rgb(102, 13, 102);
+    color:white;
+    font-weight: 300;
+  
+  }
